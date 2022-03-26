@@ -3,7 +3,7 @@ tensorflow==2.8.0
 keras==2.8.0
 gunicorn==20.1.0
 Jinja2==2.11.3
-itsdangerous==1.1.0
-MarkupSafe==2.0.1
-Werkzeug==1.0.1
+
+
+
 
