@@ -16,9 +16,9 @@ from flask import Flask, render_template, request
 import numpy as np
 import os
 
-from tensorflow.keras.preprocessing.image import load_img
-from tensorflow.keras.preprocessing.image import img_to_array
-from tensorflow.keras.models import load_model
+from keras.preprocessing.image import load_img
+from keras.preprocessing.image import img_to_array
+from keras.models import load_model
 
 filepath = 'model_vgg_plant.h5'
 model = load_model(filepath)
