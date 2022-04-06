@@ -1,5 +1,9 @@
 Flask==1.1.2
 keras==2.8.0
+tensorflow
+pandas
+matplotlib
+seaborn
 gunicorn==20.1.0
 Jinja2==2.11.3
 MarkupSafe==2.0.1
